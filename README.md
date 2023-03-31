@@ -1,0 +1,14 @@
+# trinket-user 12 SKQ1.211230.001 00WW_3_490 release-keys
+- manufacturer: hmd global
+- platform: trinket
+- codename: CAP_sprout
+- flavor: trinket-user
+- release: 12
+- id: SKQ1.211230.001
+- incremental: 00WW_3_490
+- tags: release-keys
+- fingerprint: Nokia/CaptainAmerica_00WW/CAP_sprout:12/SKQ1.211230.001/00WW_3_490:user/release-keys
+- is_ab: true
+- brand: Nokia
+- branch: trinket-user-12-SKQ1.211230.001-00WW_3_490-release-keys
+- repo: nokia_cap_sprout_dump
